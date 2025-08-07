@@ -11,5 +11,4 @@ Included Elements:
 - Navigation (nav): Placeholder for future filter or sorting controls.
 - Main Section: Hosts the timeline container where event markers will be dynamically rendered.
 - Modal: Empty div reserved for future pop-up/modal interactions.
-- Semantic HTML: Uses modern HTML5 tags like `<main>`, `<section>`, and `<header>` for accessibility and clarity.
-
+- Semantic HTML: Uses modern HTML5 tags like `<main>`, `<article>`,`<section>`, and `<header>` for accessibility and clarity.
